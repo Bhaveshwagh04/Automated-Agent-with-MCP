@@ -1,2 +1,4 @@
 langchain_groq
 mcp-use
+python-dotenv
+langchain
